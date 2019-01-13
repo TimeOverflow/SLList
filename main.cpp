@@ -1,7 +1,7 @@
 #include"SLList.h"
 #include "SLList.cpp"
 
-// test for github
+// test for github.
 int main()
 {
    SLList<int> l1(3, 2);
